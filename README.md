@@ -2,6 +2,6 @@
 
 This is my first repo to practice for my class GIS495.
 
-I am learning how to use git
+I am learning how to use git.
 
 My favorite fruit is mango.
